@@ -18,8 +18,6 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
 
 ## Dataset Used
 TLC Trip Record Data
